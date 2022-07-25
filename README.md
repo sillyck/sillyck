@@ -5,7 +5,7 @@ Nowadays i'm working in Ineutum and I'm studing Multiplataform Aplication Develo
 
 * 🌍  I'm based in Java, Angular and Python
 * ✉️  You can contact me at [ribellas2002@gmail.com](mailto:ribellas2002@gmail.com)
-* 🚀  I'm currently working on [Reddit Bot](http://github.com/Arini11/RedditBot)
+* 🚀  I'm currently working on [Angular API](https://github.com/sillyck/AngularAPI)
 * 🧠  I'm learning Java, Angular and Python
 * 🤝  I'm open to collaborating on interesting projects
 
