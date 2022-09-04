@@ -3,10 +3,9 @@ Hi 👋 My name is Jordi Ribellas
 
 Nowadays i'm working in Ineutum and I'm studing Multiplataform Aplication Development. In 2022 I've been studing a Full Stack Bootcamp, based in Java & Angular
 
-* 🌍  I'm based in Java, Angular and Python
+* 🌍  I'm based in Java and Angular
 * ✉️  You can contact me at [ribellas2002@gmail.com](mailto:ribellas2002@gmail.com)
-* 🚀  I'm currently working on [My First Android App](https://github.com/sillyck/AndroidFirstApp)
-* 🧠  I'm learning Java, Angular and Python
+* 🧠  I'm learning Java, Angular and Android Studio
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.twitter.com/Ribellas_" target="_blank" rel="noreferrer"><img
