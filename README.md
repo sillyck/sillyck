@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, soy Jordi Ribellas</h1>
 <h3 align="center">Desarrollador Full Stack apasionado, enfocado en crear soluciones tanto en frontend como en backend.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sillyck" alt="sillyck" /></a> </p>
-
 - 🔭 Actualmente trabajando en [Udemy Course](https://github.com/sillyck/UdemyCourse)
 
 - 💬 Pregúntame sobre **Java y Angular**
