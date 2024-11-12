@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Jordi Ribellas</h1>
 <h3 align="center">Desarrollador Full Stack apasionado, enfocado en crear soluciones tanto en frontend como en backend.</h3>
 
-- 🔭 Actualmente trabajando en [Udemy Course](https://github.com/sillyck/UdemyCourse)
+- 🔭 Actualmente trabajando en los proyectos sobre el Curso Udemy
 
 - 💬 Pregúntame sobre **Java y Angular**
 
